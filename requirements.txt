@@ -3,4 +3,5 @@ openpyxl
 fastapi
 uvicorn
 neo4j
+PySocks
 click
